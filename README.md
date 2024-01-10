@@ -21,9 +21,7 @@ Skills:  JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak12903&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Sarthak12903/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/Sarthak12903)  
+ 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sarthak12903)  
 
