@@ -22,7 +22,6 @@ I am Sarthak Bhalerao from India and a Full-stack developer who loves making dif
 
 ## Statastics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak12903&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sarthak12903&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak12903&theme=dark&show_icons=true)
 
 ## Contact Me:
