@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Sarthak Bhalerao from India and a Full-stack developer who loves making different websites and learning languages . I have complete grasp over HTML, CSS, Javascript and C++ . I am Tech enthusiast and enjoy learning new things such as different framworks such as React and Node. You can check out my Twitter on https://twitter.com/SarthakB1209 or my Linkedin on https://www.linkedin.com/in/sarthak-bhalerao123/.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak12903)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Sarthak12903/Sarthak12903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
