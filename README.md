@@ -8,8 +8,9 @@ Skills:  JS / HTML / CSS
 - 👯 I’m looking to collaborate on various Web based project 
 - 💬 Ask me about HTML,CSS,JS and C++ 
 - 📫 How to reach me: sarthak12903@gmail.com 
-- ⚡ Fun fact: My code is like a fine wine – it only gets better with time and lots of debugging. 
+- ⚡ Fun fact: My code is like a fine wine – it only gets better with time and lots of debugging.
  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sarthak12903)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sarthak-bhalerao123//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sarthak_b03//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/SarthakB1209)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sarthak12903.github.io/My-Portfolio-HTML-CSS-/)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
