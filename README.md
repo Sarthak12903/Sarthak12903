@@ -17,10 +17,10 @@ I am Sarthak Bhalerao from India and a Full-stack developer who loves making dif
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sarthak12903)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sarthak-bhalerao123//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sarthak_b03//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/SarthakB1209)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sarthak12903.github.io/My-Portfolio-HTML-CSS-/)  
 
  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sarthak12903&theme=Dark)]([https://git.io](https://github.com/Sarthak12903)/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sarthak12903&theme=dark)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sarthak12903)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak12903)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak12903&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak12903&show_icons=true)  
 
