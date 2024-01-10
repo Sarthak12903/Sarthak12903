@@ -15,7 +15,7 @@ I am Sarthak Bhalerao from India and a Full-stack developer who loves making dif
 - ⚡ Fun fact: My code is like a fine wine – it only gets better with time and lots of debugging.
 
 ## My Work
-<a href="https://sarthak12903.github.io/Move-In-Website/><img src="Untitled video - Made with Clipchamp (1).gif" width="400px" height="250px"></a>
+<a href="https://sarthak12903.github.io/Move-In-Website/" alt ="Move in " ><img src="Untitled video - Made with Clipchamp (1).gif" width="400px" height="250px"></a>
 <img src="Untitled video - Made with Clipchamp.gif" width="400px" height="250px">
 
 
