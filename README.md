@@ -23,5 +23,5 @@ Skills:  JS / HTML / CSS
 
  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Sarthak12903)  
+
 
