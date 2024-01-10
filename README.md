@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sarthak Bhalerao
 #### I am Full-Stack Developer
-I am Sarthak Bhalerao from India and a Full-stack developer who loves making different websites and learning languages . I have complete grasp over HTML, CSS, Javascript and C++ . I am Tech enthusiast and enjoy learning new things such as different framworks like React and Node. You can check out my Twitter on https://twitter.com/SarthakB1209 or my Linkedin on https://www.linkedin.com/in/sarthak-bhalerao123/.
+I am Sarthak Bhalerao from India and a Full-stack developer who loves making different websites and learning languages . I have complete grasp over HTML, CSS, Javascript and C++ . I am Tech enthusiast and enjoy learning new things such as different framworks like React and Node. I am always open to work.
 
 ### Skills:  
  1. C++
