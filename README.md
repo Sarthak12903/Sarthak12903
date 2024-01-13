@@ -21,7 +21,7 @@ I am Sarthak Bhalerao from India and a Full-stack developer who loves making dif
 
 
 ## Statastics:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak12903&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak12903&theme=dark)](https://github.com/sarthak12903/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak12903&theme=dark&show_icons=true)
 
 ## Contact Me:
