@@ -52,7 +52,7 @@ I am Sarthak Bhalerao from India and a Full-stack developer who loves making dif
     
 
 </p>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>(https://sarthak12903.github.io/My-Portfolio-HTML-CSS-/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sarthak12903.github.io/My-Portfolio-HTML-CSS-/)
 
  
 
