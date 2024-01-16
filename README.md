@@ -44,6 +44,13 @@ I am Sarthak Bhalerao from India and a Full-stack developer who loves making dif
   <a href="https://www.linkedin.com/in/sarthak-bhalerao123">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+   <a href="https://www.instagram.com/sarthak_b03//">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+   <a href="https://twitter.com/SarthakB1209">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sarthak12903.github.io/My-Portfolio-HTML-CSS-/) 
 
 </p>
 
