@@ -7,6 +7,8 @@ I am Sarthak Bhalerao from India and a Full-stack developer who loves making dif
  2. HTML 
  3. CSS
  4. Javascript
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)]
 ## About Me:
 - 🌱 I’m currently learning Back-end development 
 - 👯 I’m looking to collaborate on various Web based project 
