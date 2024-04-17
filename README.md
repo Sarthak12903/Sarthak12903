@@ -1,12 +1,14 @@
 # Hi there 👋, I am Sarthak Bhalerao
-## I'm Front-End Developer
-I am Sarthak Bhalerao from India and a Front-end developer who aspire to be Full-stack developerand loves making different websites and learning languages . I have complete grasp over HTML, CSS, Javascript and C++ . I am Tech enthusiast and enjoy learning new things such as different framworks like React and Node. I am always open to work.
+## I'm Full-stack Developer
+I am Sarthak Bhalerao from India and a Full-stack developer who loves making different websites and learning languages . I have complete grasp over HTML, CSS, Javascript ,Nodejs, Expressjs and  C++ . I am Tech enthusiast and enjoy learning new things such as different framworks like React and Node. I am always open to work.
 
 ### Skills:  
  1. C++
  2. HTML 
  3. CSS
  4. Javascript
+ 5. Nodejs
+ 6. Expressjs
 
 <p align="center">
   <a href="#">
