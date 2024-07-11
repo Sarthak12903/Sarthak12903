@@ -1,5 +1,5 @@
 # Hi there 👋, I am Sarthak Bhalerao
-## I'm Full-stack Developer
+## I'm Full-stack Developer and Aspiring IOS Developer
 I am Sarthak Bhalerao from India and a Full-stack developer who loves making different websites and learning languages . I have complete grasp over HTML, CSS, Javascript ,Nodejs, Expressjs and  C++ . I am Tech enthusiast and enjoy learning new things such as different framworks like React and Node. I am always open to work.
 
 ### Skills:  
@@ -10,10 +10,11 @@ I am Sarthak Bhalerao from India and a Full-stack developer who loves making dif
  5. ReactJs
  6. Nodejs
  7. Expressjs
+ 8. Swift
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,swift,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,swift,expressjs,cpp" />
   </a>
 </p>
 
