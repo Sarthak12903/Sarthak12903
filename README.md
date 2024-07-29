@@ -9,12 +9,11 @@ I am Sarthak Bhalerao from India and a Full-stack developer who loves making dif
  4. ReactJs
  5. Nodejs
  6. Expressjs
- 7. Swift
- 8.  C++
+ 7.  C++
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,swift,expressjs,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,expressjs,cpp" />
   </a>
 </p>
 
