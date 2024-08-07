@@ -14,7 +14,7 @@ I am Sarthak Bhalerao from India and a Full-stack developer who loves making dif
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,expressjs,mongodb,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,expressjs,mongodb,git,cpp" />
   </a>
 </p>
 
