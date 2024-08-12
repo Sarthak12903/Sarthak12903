@@ -21,7 +21,7 @@ I am Sarthak Bhalerao from India and a Full-stack developer who loves making dif
 ## About Me:
 - 🌱 I’m currently learning Back-end development 
 - 👯 I’m looking to collaborate on various Web based project 
-- 💬 Ask me about HTML,CSS,JS, ReactJs, NodeJs, ExpressJs, Swift and C++ 
+- 💬 Ask me about HTML,CSS,JS, ReactJs, NodeJs, ExpressJs, and C++ 
 - 📫 How to reach me: sarthak12903@gmail.com 
 - ⚡ Fun fact: My code is like a fine wine – it only gets better with time and lots of debugging.
 
