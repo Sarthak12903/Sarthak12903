@@ -10,18 +10,19 @@ I am Sarthak Bhalerao from India and a Full-stack developer who loves making dif
  5. Nodejs
  6. Expressjs
  7.  MongoDB
- 8.  C++
+ 8. PostgreSQL
+ 9. C++
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,expressjs,mongodb,github,git,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,expressjs,mongodb,postgre,github,git,cpp" />
   </a>
 </p>
 
 ## About Me:
 - 🌱 I’m currently Working to master my Full-Stack Development Skills. 
 - 👯 I’m looking to collaborate on various Web based project 
-- 💬 Ask me about HTML,CSS,JS, ReactJs, NodeJs, ExpressJs, and C++ 
+- 💬 Ask me about HTML,CSS,JS, ReactJs, NodeJs, ExpressJs,MongoDB, PostgreSQL and C++ 
 - 📫 How to reach me: sarthak12903@gmail.com 
 - ⚡ Fun fact: My code is like a fine wine – it only gets better with time and lots of debugging.
 
