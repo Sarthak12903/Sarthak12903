@@ -6,17 +6,18 @@ I am Sarthak Bhalerao from India and a Full-stack developer who loves making dif
  1. HTML 
  2. CSS
  3. Javascript
- 4. ReactJs
- 5. Nextjs
- 6. Nodejs
- 7. Expressjs
- 8.  MongoDB
- 9. PostgreSQL
- 10. C++
+ 4. Typescript
+ 5. ReactJs
+ 6. Nextjs
+ 7. Nodejs
+ 8. Expressjs
+ 9.  MongoDB
+ 10. PostgreSQL
+ 11. C++
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,next,expressjs,mongodb,postgresql,github,git,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,next,expressjs,mongodb,postgresql,github,git,cpp" />
   </a>
 </p>
 
