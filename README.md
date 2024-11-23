@@ -14,11 +14,11 @@ I am Sarthak Bhalerao from India and a Full-stack developer who loves making dif
  9.  MongoDB
  10. PostgreSQL
  11. C++
- 12. Swift
+     
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,swift,react,next,expressjs,mongodb,postgresql,github,git,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,next,expressjs,mongodb,postgresql,github,git,cpp" />
   </a>
 </p>
 
