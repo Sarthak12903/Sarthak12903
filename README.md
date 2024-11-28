@@ -42,7 +42,43 @@ I am Sarthak Bhalerao from India and a Full-stack developer who loves making dif
 
 ## Contact Me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' fill="white" alt='github' height='40'>](https://github.com/https://github.com/Sarthak12903)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sarthak-bhalerao12/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sarthak_b03/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/SarthakB1209)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sarthak12903.github.io/My-Portfolio-HTML-CSS-/)  
+<div>
+  <a href="https://github.com/Sarthak12903" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" 
+         alt="github" class="icon" />
+  </a>
+  <a href="https://www.linkedin.com/in/sarthak-bhalerao12/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" 
+         alt="linkedin" class="icon" />
+  </a>
+  <a href="https://www.instagram.com/sarthak_b03/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" 
+         alt="instagram" class="icon" />
+  </a>
+  <a href="https://twitter.com/SarthakB1209" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" 
+         alt="twitter" class="icon" />
+  </a>
+  <a href="https://sarthak12903.github.io/My-Portfolio-HTML-CSS-/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" 
+         alt="website" class="icon" />
+  </a>
+</div>
+
+<style>
+  .icon {
+    height: 40px;
+    filter: invert(0); /* Default color: black */
+    transition: filter 0.3s ease; /* Smooth transition between modes */
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .icon {
+      filter: invert(1); /* White for dark mode */
+    }
+  }
+</style>
+
 
 
 
