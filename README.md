@@ -4,21 +4,20 @@ I am Sarthak Bhalerao from India and a Full-stack developer who loves making dif
 
 ### Skills:  
 <div style="display: flex ; flex-wrap: wrap;">
-  <table>
-    <tr>
-      <td>HTML</td>
-      <td>CSS</td>
-      <td>JavaScript</td>
-      <td>TypeScript</td>
-      <td>ReactJS</td>
-      <td>NextJS</td>
-      <td>NodeJS</td>
-      <td>ExpressJS</td>
-      <td>MongoDB</td>
-      <td>PostgreSQL</td>
-      <td>C++</td>
-    </tr>
-  </table>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>TypeScript</li>
+      <li>ReactJS</li>
+      <li>NextJS</li>
+      <li>NodeJS</li>
+      <li>ExpressJS</li>
+      <li>MongoDB</li>
+      <li>PostgreSQL</li>
+      <li>C++</li>
+    </ul>
+
 </div>
 
 
