@@ -4,7 +4,7 @@ I am Sarthak Bhalerao from India and a Full-stack developer who loves making dif
 
 ### Skills:  
 <div style="display: flex ; flex-wrap: wrap; orientation:horizontal">
-    <ul>
+    <ol>
       <li>HTML</li>
       <li>CSS</li>
       <li>JavaScript</li>
@@ -16,7 +16,7 @@ I am Sarthak Bhalerao from India and a Full-stack developer who loves making dif
       <li>MongoDB</li>
       <li>PostgreSQL</li>
       <li>C++</li>
-    </ul>
+    </ol>
 
 </div>
 
