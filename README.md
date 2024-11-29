@@ -3,10 +3,24 @@
 I am Sarthak Bhalerao from India and a Full-stack developer who loves making different websites and learning languages . I have complete grasp over HTML, CSS, Javascript ,Nodejs, Expressjs and  C++ . I am Tech enthusiast and enjoy learning new things such as different framworks like React and Node. I am always open to work.
 
 ### Skills:  
-| HTML       | CSS        | JavaScript | TypeScript |
-|------------|------------|------------|------------|
-| ReactJS    | NextJS     | NodeJS     | ExpressJS  |
-| MongoDB    | PostgreSQL | C++        |            |
+<div style="display: flex ; flex-wrap: wrap;">
+  <table>
+    <tr>
+      <td>HTML</td>
+      <td>CSS</td>
+      <td>JavaScript</td>
+      <td>TypeScript</td>
+      <td>ReactJS</td>
+      <td>NextJS</td>
+      <td>NodeJS</td>
+      <td>ExpressJS</td>
+      <td>MongoDB</td>
+      <td>PostgreSQL</td>
+      <td>C++</td>
+    </tr>
+  </table>
+</div>
+
 
 
 
