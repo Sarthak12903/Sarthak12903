@@ -2,7 +2,8 @@
 ## I'm Full-stack Developer 
 I am Sarthak Bhalerao from India and a Full-stack developer who loves making different websites and learning languages . I have complete grasp over HTML, CSS, Javascript ,Nodejs, Expressjs and  C++ . I am Tech enthusiast and enjoy learning new things such as different framworks like React and Node. I am always open to work.
 
-### Tech Stacks:  
+## Tech Stacks:  
+<hr/>
 
 <p align="center">
   <a href="#">
