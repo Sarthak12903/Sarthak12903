@@ -9,7 +9,7 @@ My name is Sarthak Bhalerao, and I am a Full-stack Developer from India. I am pa
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,nodejs,react,next,expressjs,mongodb,postgresql,github,git,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,nodejs,react,electron,next,expressjs,mongodb,postgresql,github,git,cpp" />
   </a>
 </p>
 
