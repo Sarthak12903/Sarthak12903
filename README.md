@@ -1,7 +1,7 @@
 # Hi there 👋, I am Sarthak Bhalerao
 ## I'm Full-stack Developer 
 
-My name is Sarthak Bhalerao, and I am a Full-stack Developer from India. I am passionate about creating diverse websites and learning programming languages. I possess a comprehensive understanding of HTML, CSS, JavaScript, Node.js, Express.js, and C++. Additionally, I have a strong grasp of frameworks such as React and Express. I am eager to explore opportunities for collaboration and contribute my skills to your team.
+My name is Sarthak Bhalerao, and I am a Full-stack Developer from India. I am passionate about creating diverse websites and learning programming languages. I possess a comprehensive understanding of HTML, CSS, JavaScript, React.js, Node.js, Express.js, and C++. Additionally, I am eager to explore opportunities for collaboration and contribute my skills to your team.
 
 
 ## Tech Stacks:  
