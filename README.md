@@ -36,5 +36,5 @@ My name is Sarthak Bhalerao, and I am a Full-stack Developer from India. I am pa
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg'  alt='github' height='40'>](https://github.com/https://github.com/Sarthak12903/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sarthak-bhalerao12/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sarthak_b03/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/SarthakB1209)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sarthak12903.github.io/My-Portfolio-HTML-CSS-/)  
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sarthak12903&label=Profile%20views&color=0e75b6&style=flat" alt="yash-op-45" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sarthak12903&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak12903" /> </p>
 
