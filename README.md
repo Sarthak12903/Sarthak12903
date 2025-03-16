@@ -34,7 +34,7 @@ My name is Sarthak Bhalerao, and I am a Full-stack Developer from India. I am pa
 ## Contact Me: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sarthak-bhalerao12/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/https://twitter.com/SarthakB1209)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/https://twitter.com/SarthakB1209)
 [![LeetCode](https://img.shields.io/badge/LeetCode-blue?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/sarthak12903/)
 
 
