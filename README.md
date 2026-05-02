@@ -27,7 +27,8 @@ My name is Sarthak Bhalerao, and I am a Full-stack Developer from India. I am pa
 ## Statastics:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak12903&layout=donut&theme=dark)
-![Sarthak's_GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak12903&show_icons=true&theme=radical)
+
+<!--![Sarthak's_GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak12903&show_icons=true&theme=radical)-->
 
 
 
